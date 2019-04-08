@@ -4,6 +4,12 @@
 
 产品应用了目前最火热的增强现实与人工智能技术，即AR与AI技术。用户使用手机摄像头拍摄周边环境，通过AR的SLAM技术让手机理解真实环境，构建出虚拟的三维世界。同时，结合AI技术对图像进行处理，找到我们需要测量的物体（如纸箱）在虚拟三维世界的成像，里面包括该物体的位置与形状信息。最后根据这些信息进行三维重构，恢复出物体的形状，最终计算出该物体的体积。
 
+<img src="https://github.com/dvlee1024/LeceAR/blob/master/img/1.jpg" width="300"/>
+<img src="https://github.com/dvlee1024/LeceAR/blob/master/img/2.jpg" width="300"/>
+<img src="https://github.com/dvlee1024/LeceAR/blob/master/img/3.jpg" width="300"/>
+<img src="https://github.com/dvlee1024/LeceAR/blob/master/img/4.jpg" width="300"/>
+
+
 License
 ---
 
